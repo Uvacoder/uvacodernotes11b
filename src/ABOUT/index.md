@@ -15,14 +15,14 @@ It is and will always be work in progress... 😉
 
 ## About me
 
-[www.steffen-haefelinger.com](https://www.steffen-haefelinger.com)
+[https://abc-mylinks.vercel.app](https://abc-mylinks.vercel.app)
 
-Steffen Häfelinger is a web developer located in Hamburg, Germany. He is a graduate of the Full Stack Web Developement at Hamburg Coding School. He is also working as a professional Musician, Songwriter & Audio Engineer.
+Im just me.
 
-<!-- Web: www.steffen-haefelinger.com
+<!-- Web: https://abc-mylinks.vercel.app
 
-Mail: mail@steffen-haefelinger.com
+Mail: freeunioncoder@gmail.com
 
-GitHub: https://github.com/shaefelinger
+GitHub: https://github.com/uvacoder
 
-Facebook: https://www.facebook.com/steffen.hafelinger/ -->
+
