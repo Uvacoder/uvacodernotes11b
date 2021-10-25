@@ -9,8 +9,7 @@
   },
   "repository": "/codepedia",
   "scripts": {
-    "start": "vuepress dev src",
-    "serve": "vuepress dev src",
+    "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
