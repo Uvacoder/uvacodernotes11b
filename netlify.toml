@@ -1,0 +1,6 @@
+[build]
+  publish = "src/.vuepress/dist"
+  command = "yarn src:build"
+[build.environment]
+  NODE_VERSION = "14"
+
